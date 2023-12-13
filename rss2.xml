@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>月寒日暖，来煎人寿</description>
-    <pubDate>Wed, 13 Dec 2023 11:58:41 GMT</pubDate>
+    <pubDate>Wed, 13 Dec 2023 12:01:04 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,13 +20,13 @@
       
         
         
-      <description>&lt;p&gt;没什么爱好，喜欢骑车，听音乐，打游戏罢了，纸片人倒是喜欢几个&lt;br&gt;&lt;img src=&quot;https://www.pixiv.net/artworks/114018285&quot; alt=&quot;光&quot;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;没什么爱好，喜欢骑车，听音乐，打游戏罢了，纸片人倒是喜欢几个&lt;br&gt;&lt;img src=&quot;/%22G:%5CBlog%5Cpublic%5Cimages%5Cbackground.png%22&quot; alt=&quot;光&quot;&gt;&lt;/p&gt;
 </description>
         
       
       
       
-      <content:encoded><![CDATA[<p>没什么爱好，喜欢骑车，听音乐，打游戏罢了，纸片人倒是喜欢几个<br><img src="https://www.pixiv.net/artworks/114018285" alt="光"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>没什么爱好，喜欢骑车，听音乐，打游戏罢了，纸片人倒是喜欢几个<br><img src="/%22G:%5CBlog%5Cpublic%5Cimages%5Cbackground.png%22" alt="光"></p>]]></content:encoded>
       
       
       <category domain="http://example.com/categories/hobby/">hobby</category>
