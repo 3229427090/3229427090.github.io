@@ -9,8 +9,32 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>月寒日暖，来煎人寿</description>
-    <pubDate>Mon, 11 Dec 2023 06:12:14 GMT</pubDate>
+    <pubDate>Wed, 13 Dec 2023 11:56:36 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>爱好</title>
+      <link>http://example.com/2023/12/13/%E7%88%B1%E5%A5%BD/</link>
+      <guid>http://example.com/2023/12/13/%E7%88%B1%E5%A5%BD/</guid>
+      <pubDate>Wed, 13 Dec 2023 11:36:59 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;没什么爱好，喜欢骑车，听音乐，打游戏罢了，纸片人倒是喜欢几个&lt;br&gt;&lt;img src=&quot;/%22C:%5CUsers%5C32294%5CDesktop%5C%E6%A1%8C%E9%9D%A2%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9%5C%</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>没什么爱好，喜欢骑车，听音乐，打游戏罢了，纸片人倒是喜欢几个<br><img src="/%22C:%5CUsers%5C32294%5CDesktop%5C%E6%A1%8C%E9%9D%A2%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9%5C%E5%AE%87%E6%99%BA%E6%B3%A2%E5%85%89%5Cbackground.png%22" alt="光"></p>]]></content:encoded>
+      
+      
+      <category domain="http://example.com/categories/hobby/">hobby</category>
+      
+      
+      
+      <comments>http://example.com/2023/12/13/%E7%88%B1%E5%A5%BD/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>test</title>
